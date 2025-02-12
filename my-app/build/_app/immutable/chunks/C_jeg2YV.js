@@ -1,0 +1,1 @@
+import{j as o,l as _,N as f,h as a,O as u,M as d,o as i,s,p as r,i as c}from"./gZk3-jOb.js";let e;function p(){e=void 0}function g(h){let t=null,l=a;var n;if(a){for(t=r,e===void 0&&(e=c(document.head));e!==null&&(e.nodeType!==8||e.data!==u);)e=d(e);e===null?i(!1):e=s(d(e))}a||(n=document.head.appendChild(o()));try{_(()=>h(n),f)}finally{l&&(i(!0),e=r,s(t))}}export{g as h,p as r};

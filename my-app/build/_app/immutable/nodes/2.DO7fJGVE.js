@@ -1,0 +1,1 @@
+import{t as a,a as t}from"../chunks/BPUY1g3J.js";import"../chunks/CuyasJGU.js";import{$ as m}from"../chunks/gZk3-jOb.js";import{h as p}from"../chunks/C_jeg2YV.js";var r=a("<p>Hello, my name's Svelte. I'm a dog and this is my homepage.</p>");function h(e){var o=r();p(n=>{m.title="Svelte's Homepage"}),t(e,o)}export{h as component};
