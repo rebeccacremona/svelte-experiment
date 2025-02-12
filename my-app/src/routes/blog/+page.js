@@ -5,7 +5,6 @@
  for (let path in blogPosts) {
    body.push(
      blogPosts[path]().then(({ metadata }) => {
-       console.log(metadata);
        path = path.substring(path.lastIndexOf('/') + 1).replace(".md", "").replace(".svx", "");
        return { path, metadata };
      })
